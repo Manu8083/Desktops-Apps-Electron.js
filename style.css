@@ -1,0 +1,23 @@
+body{
+	background-color: purple;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.centrado{
+	text-align: center;
+	margin-top: 10%;
+	color: white;
+}
+p{
+	margin-left: 5%;
+	color: white;
+}
+form#formulario{
+	display: none;
+}
+.divPass{
+	text-align: center;
+	color: white;
+}
